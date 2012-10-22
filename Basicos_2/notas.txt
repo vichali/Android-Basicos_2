@@ -1,0 +1,12 @@
+
+Sobre Base_2
+--------------------
+Un listview es una forma de mostrar datos en forma de lista. 
+El listview recibe los datos a través de un adaptador. El adaptador define como es que cada fila del list será mostrada
+El adaptador actua como un puente entre un AdapterView y los datos de una vista (view).
+El adaptador permite el acceso a los elementos de datos y crea una vista previa para cada elemento en la colección de datos.
+Los adaptadores son una coleccion de datos que asignamos a una vista para que esta los muestre.
+Con ArrayAdapter podemos mostrar los datos de un array y al crearlo le pasamos tres parámetros (contexto, layout y datos).
+El adaptador es asignado por el método setAdapter en el objeto Listview
+Android provee layouts predefinidos como simple_list_item1
+

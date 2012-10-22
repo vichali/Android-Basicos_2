@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Basicos 2</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Listado Completo</string>
+
+    <string name="titulo">Listado Países</string>
+    
+</resources>
